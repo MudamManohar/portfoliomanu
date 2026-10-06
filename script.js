@@ -1,4 +1,3 @@
-// ```javascript
 const video = document.getElementById("bgVideo");
 const playBtn = document.getElementById("playBtn");
 const playIcon = document.getElementById("playIcon");
@@ -75,4 +74,3 @@ window.addEventListener("scroll", function () {
     }
 
 });
-
